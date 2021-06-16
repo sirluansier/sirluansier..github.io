@@ -24,6 +24,7 @@
     font-size: 34px;
     margin: 48px 48px 40px 48px;
     color: hsl(0, 0%, 95%);
+    text-transform: uppercase;
 }
 .sedan :nth-child(3){
     font-family: "Lexend Deca";
@@ -47,6 +48,8 @@
     font-size: 34px;
     margin: 48px 48px 40px 48px;
     color: hsl(0, 0%, 95%);
+    text-transform: uppercase;
+
 }
 .suv :nth-child(3){
     font-family: "Lexend Deca";
@@ -71,6 +74,8 @@
     font-size: 34px;
     margin: 48px 48px 40px 48px;
     color: hsl(0, 0%, 95%);
+    text-transform: uppercase;
+
 }
 .luxury :nth-child(3){
     font-family: "Lexend Deca";
